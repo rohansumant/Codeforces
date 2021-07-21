@@ -1,2 +1,2 @@
 all:
-	g++-7 -g -std=c++17 *.cpp
+	g++-7 -D DEBUG -g -std=c++17 *.cpp
