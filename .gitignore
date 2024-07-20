@@ -1,6 +1,11 @@
+.*
+!/.gitignore
 a.out*
 inp*
 *.swp
 *inp
 *op
 *tmp
+*.jar
+*.class
+META_INF
